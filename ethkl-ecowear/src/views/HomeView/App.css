@@ -1,34 +1,37 @@
 
 .App-header {
-  background: linear-gradient(to bottom, #663399, #800080);
+  background: linear-gradient(to bottom, #904ad6, #ca89e8);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(9px + 2vmin);
   color: white;
 }
 
 .card {
-  background-color: rgba(200, 200, 200, 0.7);;
-  border-radius: 16px;
+  background-color: rgba(217, 217, 217, 0.941);;
+  border-radius: 12px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 160px;
   margin: 60px;
-  text-align: center;
+  text-align: left;
 }
 
-.button {
-  background-color: #007bff; /* Button background color */
+.custom-button {
+  background-color: #10121400; /* Background color */
   color: white; /* Text color */
   padding: 10px 20px; /* Padding to adjust the button size */
   border: none;
-  border-radius: 5px;
+  border-radius: 15px;
   cursor: pointer;
+  font-size: 20px; /* Adjust the font size */
+  font-weight: bold; /* Adjust the font weight */
+  margin: 5px; /* Adjust margin for spacing between buttons */
 }
 
-.button:hover {
-  background-color: #0056b3; /* Button background color on hover */
+.custom-button:hover {
+  background-color: #c89ee5; /* Background color on hover */
 }
 
