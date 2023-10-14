@@ -8,11 +8,11 @@ function App() {
     <div>
       <div className="container mx-auto max-w-6xl p-8 2xl:px-0">
         <header className="App-header">
-          <div className="hero content">
+          <div className="flex-flex hero content">
             <h1 className="mb-5 text-5xl font-display">
               Welcome to EcoWear.
             </h1>
-            
+            <button> Click Me</button>
             <p className="mb-5">
               building eco-friendly and socially responsible fashion ecosystem
             </p>

@@ -18,3 +18,17 @@
   margin: 60px;
   text-align: center;
 }
+
+.button {
+  background-color: #007bff; /* Button background color */
+  color: white; /* Text color */
+  padding: 10px 20px; /* Padding to adjust the button size */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3; /* Button background color on hover */
+}
+
