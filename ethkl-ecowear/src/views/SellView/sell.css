@@ -1,0 +1,62 @@
+.product_title, .product_desc {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left:20px;
+  }
+  
+  .right {
+    float: right;
+    width: 40%;
+    box-sizing: border-box;
+    margin-bottom: 60px;
+    margin-top: -100px;
+  }
+  
+  .product {
+   
+    margin: 150px;
+    width: 80%;
+    background-color: white; 
+    height: 60%;
+  }
+  
+  .Next {
+  margin-top: 30%;
+  box-sizing: border-box;
+  width: 100px;
+  height: 50px;
+  }
+  
+  body{
+    background-color: #ECCEED;
+  }
+  
+  .title{
+    margin-left:10px;
+  }
+  
+  .custom-button {
+    background-color: #10121400; /* Background color */
+    color: black; /* Text color */
+    padding: 10px 20px; /* Padding to adjust the button size */
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 20px; /* Adjust the font size */
+    font-weight: bold; /* Adjust the font weight */
+    margin: 5px; /* Adjust margin for spacing between buttons */
+    float: right;
+    margin-top: -47px;
+    margin-right: 50px;
+  }
+  
+  .custom-button:hover {
+    background-color: #d4c0e1; }
+  
+   .EcoWear{
+    margin-left: 10%;
+    font-size: 60px;
+    margin-top: 5%;
+   }
